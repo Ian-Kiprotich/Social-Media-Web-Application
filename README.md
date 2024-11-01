@@ -3,7 +3,7 @@ Okware's Social is a fully-featured social media web application, built with the
 
 
 ## Features
-- Create, read, update and delete posts
+- Create, read, update and delete posts.
 - Like and unlike posts
 - Create, reply to, read, update and delete nested comments
 - Markdown for posts and comments

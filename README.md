@@ -19,7 +19,7 @@ Okware's Social is a fully-featured social media web application, built with the
 - Fully responsive layout
 
 ## Installation and usage
-1) Clone this repository
+1) Clone this repository.
 ```
 git clone https://github.com/SoftCysec/Social-Media-Web-Application.git
 ```
